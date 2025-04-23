@@ -55,7 +55,14 @@ Model-Based Design (MBD) enables system-level simulation and validation prior to
 
 ---
 
-## Getting Started
+##Simulation-Snapshots
+![image](https://github.com/user-attachments/assets/1af38abd-5a43-4bc2-a351-681155ea9d77)
+![can](https://github.com/user-attachments/assets/91013228-edf0-4b25-848b-aab7897eabeb)
+![flight_controller](https://github.com/user-attachments/assets/3f629b56-ae87-4e0d-bc93-a8f66d9e5033)
+![imu](https://github.com/user-attachments/assets/5b5d3418-34e1-4784-83a4-7dde07e38fc3)
+
+
+
 
 1. Clone the repository:
    ```bash
