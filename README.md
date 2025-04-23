@@ -1,0 +1,2 @@
+# Using-CAN-Protocol-for-Quadcopter-A-Model-Based-Design-Approach
+This project demonstrates the implementation of the Controller Area Network (CAN) protocol in a quadcopter flight control system using MATLAB Simulink. The goal is to simulate real-time communication between sensors and controllers, implement stable control using PID algorithms, and verify performance through simulation before hardware deployment.
